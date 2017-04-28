@@ -1,10 +1,9 @@
-package com.roundsquare.wally.business;
+package com.roundsquare.wally.business.database;
 
 import com.roundsquare.wally.business.model.Account;
 import com.roundsquare.wally.business.model.Category;
 import com.roundsquare.wally.business.model.Transaction;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 /**

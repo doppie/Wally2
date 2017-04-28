@@ -1,6 +1,7 @@
 package com.roundsquare.wally.business;
 
 
+import com.roundsquare.wally.business.database.DatabaseRepository;
 import com.roundsquare.wally.business.model.Account;
 import com.roundsquare.wally.business.model.Category;
 import com.roundsquare.wally.business.model.Transaction;

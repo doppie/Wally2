@@ -1,4 +1,4 @@
-package com.roundsquare.wally.business;
+package com.roundsquare.wally.business.database;
 
 import com.roundsquare.wally.business.model.Account;
 import com.roundsquare.wally.business.model.Category;
@@ -11,7 +11,7 @@ import java.util.HashMap;
  * Created by Jelle on 28/04/2017.
  */
 
-public class DatabaseAdapter implements IDatabase {
+public class DatabaseAdapter implements IDatabaseAdapter {
 
     @Override
     public HashMap<Long, Account> getAccounts() {
