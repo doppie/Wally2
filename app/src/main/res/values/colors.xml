@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="primary">@color/main_color_500</color>
+    <color name="primary_dark">@color/main_color_700</color>
+
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <color name="shadow">#42000000</color>
+
+    <color name="main_color_500">@color/material_light_green_500</color>
+    <color name="main_color_50">@color/material_light_green_50</color>
+    <color name="main_color_100">@color/material_light_green_100</color>
+    <color name="main_color_200">@color/material_light_green_200</color>
+    <color name="main_color_300">@color/material_light_green_300</color>
+    <color name="main_color_400">@color/material_light_green_400</color>
+    <color name="main_color_600">@color/material_light_green_600</color>
+    <color name="main_color_700">@color/material_light_green_700</color>
+    <color name="main_color_800">@color/material_light_green_800</color>
+    <color name="main_color_900">@color/material_light_green_900</color>
+    <color name="main_color_A100">@color/material_amber_A100</color>
+    <color name="main_color_A200">@color/material_amber_A200</color>
+    <color name="main_color_A400">@color/material_amber_A400</color>
 </resources>
